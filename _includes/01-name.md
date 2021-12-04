@@ -1,1 +1,6 @@
-Replace this with your name, and include a header.
+# PERSONAL DETAILS
+## EDUCATIONAL QUALIFICATION
+### RELEVANT EXPERIENCE
+#### RELEVANT COURSES
+##### PROJECTS
+###### ADDITIIONAL EXPERIENCE
